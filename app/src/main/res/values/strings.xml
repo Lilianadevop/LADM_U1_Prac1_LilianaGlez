@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LADM_U1_Prac1</string>
+    <array name="opcioMu">
+        <item>PIEZAS</item>
+        <item>MUSEOS</item>
+        <item>INFO</item>
+        <item>SALIR</item>
+    </array>
+    <string name="title_activity_tabbed">Tabbed</string>
+    <string name="tab_text_1">Museo 1</string>
+    <string name="tab_text_2">Museo 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola</string>
+    <string name="title_activity_basic">Basic</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_scrolling">Piezas</string>
+    <string name="large_text">"Material is the metaphor.\n\n"</string>
+    <string name="action_settings">Settings</string>
+</resources>

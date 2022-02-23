@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Scrolling"
+    tools:showIn="@layout/activity_scrolling">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="287dp"
+            android:padding="10sp"
+            android:background="@drawable/pieza1" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="287dp"
+            android:padding="10sp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/pieza2"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="287dp"
+            android:layout_marginTop="5dp"
+            android:padding="10sp"
+            android:background="@drawable/pieza3"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="287dp"
+            android:layout_marginTop="5dp"
+            android:padding="10sp"
+            android:background="@drawable/pieza4"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="287dp"
+            android:layout_marginTop="5dp"
+            android:padding="10sp"
+            android:background="@drawable/pieza5"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="287dp"
+            android:layout_marginTop="5dp"
+            android:padding="10sp"
+            android:background="@drawable/pieza6"
+            />
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="287dp"
+        android:layout_marginTop="5dp"
+        android:padding="10sp"
+        android:background="@drawable/pieza7"
+        />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="287dp"
+            android:layout_marginTop="5dp"
+            android:padding="10sp"
+            android:background="@drawable/pieza8"
+            />
+
+    </LinearLayout>
+
+
+
+
+</androidx.core.widget.NestedScrollView>
